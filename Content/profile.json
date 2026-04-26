@@ -4,53 +4,54 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Adam Loepker. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Adam Loepker. I am enjoy computer science student with an interest in software development, programming, and security. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on Java and C programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I sometimes engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I love learning!"
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "EMail": "loepkera@spu.edu",
+  "Phone": "(206) 657-0961",
+  "Portfolio": "https://aloepker.github.io/",
+  "LinkedIn": "https://linkedin.com/in/adam-loepker/",
+  "GitHub": "https://www.github.com/aloepker"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Was always in charge of the house computer. My formal training started with a LaunchCode full stack web dev certification",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2026",
   "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Employment": "Seeking",
+  "Role": "",
+  "EmploymentText": "",
+  "Skills": [" Java", " C", " C++", " JavaScript", " Node", " CSS"," HTML"],
+  "SkillsText": "",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "TrayMate",
+    "Desc": "This is my senior group's capstone project at Seattle Pacific University. TrayMate is a resident care facility meal order app with.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/aloepker/TrayMate",
+    "GitHubRepo2": "https://github.com/GerryS02/Traymate-Auth",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Ardino garden monitor and linux web server",
+    "Desc": "As my capstone from my LaunchCode full-stack course, I developed a garden monitor using an arduino that I then hosted on a website with a local nginx server on linux.",
+    "GitHubRepo": "https://github.com/aloepker/capstone",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+    "Title": "Playiong card game",
+    "Desc": "This was my capstone project from my Software Engineering class at the University of Missouri St. Louis. The project was a playing card game with several levels requireing succesful compleation of the last to progress",
+    "GitHubRepo": "https://github.com/aloepker/4500-Software-Engineering-HW1",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
   "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
+    "Title": "Recursive vs Iterative",
+    "Desc": "This was a project in my algorithms class to test out recursion vs iterative algorithms and their time complexeties",
+    "GitHubRepo": "https://github.com/aloepker/Recursive-vs-Iterative",
     "MainImage": "",
     "DetailImages": []
   }
