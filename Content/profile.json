@@ -31,8 +31,8 @@
     "Desc": "This is my senior group's capstone project at Seattle Pacific University. TrayMate is a resident care facility meal order app with.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com/aloepker/TrayMate",
     "GitHubRepo2": "https://github.com/GerryS02/Traymate-Auth",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "P1Main.jpg",
+    "DetailImages": ["P1Detail1.jpg","P1Detail2.jpg","P1Detail3.jpg","P1Detail4.jpg","P1Detail5.jpg","P1Detail6.jpg","P1Detail7.jpg","P1Detail8.jpg","P1Detail9.jpg","P1Detail10.jpg","P1Detail11.jpg","P1Detail12.jpg","P1Detail13.jpg","P1Detail14.jpg","P1Detail15.jpg"]
   },
   "Project2": {
     "Title": "Ardino garden monitor and linux web server",
