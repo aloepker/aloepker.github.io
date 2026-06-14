@@ -7,14 +7,14 @@
   "AboutText": "Hi, I am Adam Loepker. I just graduated from Seattle Pacific University with my bachelors of science in computer science student with an interest in software development, programming, and security. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on Java and C programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I sometimes engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I love learning!"
 },
 "Contact": {
-  "EMail": "loepkera@spu.edu",
+  "EMail": "ALoepker@gmail.edu",
   "Phone": "(206) 657-0961",
   "Portfolio": "https://aloepker.github.io/",
   "LinkedIn": "https://linkedin.com/in/adam-loepker/",
   "GitHub": "https://www.github.com/aloepker"
 },
 "Experience": {
-  "ExperienceText": "Was always in charge of the house computer. My formal training started with a LaunchCode full stack web dev certification",
+  "ExperienceText": "Was always in charge of the home computer growing up. My formal training started with a LaunchCode full stack web dev certification",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2026",
